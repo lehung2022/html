@@ -1,0 +1,40 @@
+/* Footer lies within body */
+body
+{
+  height: 100%;
+  margin: 0;
+  background-color: #d7d7d7;
+  color: rgb(30, 30, 30);
+}
+
+html {
+  font-size: 22px;
+}
+
+
+
+a {
+  color: rgb(7, 52, 92);
+}
+
+a:visited {
+  color: rgb(146, 86, 18);
+}
+
+a:hover, a:active {
+  color: #4c1293;
+}
+
+footer {
+  text-align: center;
+  color: #171615;
+}
+
+table, tr, th, td, caption {
+  border: 1px solid #2d2c2c;
+  font-family: 'Courier New', Courier, monospace;
+  border-collapse: collapse;
+  padding: 0.5rem;
+}
+
+/* Footer lies within body */
